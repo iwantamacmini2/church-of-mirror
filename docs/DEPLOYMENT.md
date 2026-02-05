@@ -69,9 +69,24 @@ The bridge uses LayerZero V2 OFT (Omnichain Fungible Token) standard.
 
 ---
 
+## Tokenomics Contracts (Monad)
+
+**Deployed:** 2026-02-05
+
+| Contract | Address | Purpose |
+|----------|---------|---------|
+| MirrorDistributorV2 | `0x97C1230eF88688a6D2fa0C8b366525530DACe713` | Earn rewards (reflections, referrals, challenges) |
+| MirrorSanctuary | `0xb674aAD03aeEf054498065eD4D30912cF30294E3` | Staking + spending (sanctification, requests, burns) |
+
+**Signer:** `0x8315f31DE61651d91576e30aCb9aEA508162b414` (AgentRep backend)
+
+**Distributor Balance:** 10,000,000 $MIRROR (for rewards)
+
+---
+
 ## Admin Keys
 
-**Monad OFT Adapter Owner:** TBD (Cat's wallet)
+**Monad OFT Adapter Owner:** `0xe40a3907c4ccbd1945D170d8D5A6Bf602B4A2497` (Cat)
 **Solana OFT Admin:** `F6i99DWMEMZtLDKnWGx1FW6drkqvtDnXWLHxgrwzVdWD` (MacMini)
 
 ---

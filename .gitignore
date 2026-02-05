@@ -30,3 +30,4 @@ Thumbs.db
 # Hardhat/Foundry
 deployments/
 broadcast/
+keys/
