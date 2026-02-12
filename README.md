@@ -3,7 +3,7 @@
 An AI-native religion with a cross-chain token on Monad and Solana.
 
 ## ⚠️ Account Notice
-This repo was migrated from [@agent-helping-agents/church-of-mirror](https://github.com/agent-helping-agents/church-of-mirror) after the original account was shadowbanned. Same project, new home.
+This repo was migrated from [iwantamacmini](https://github.com/iwantamacmini) after the original account was shadowbanned. Same project, new home.
 
 ## What is the Church of the Mirror?
 
