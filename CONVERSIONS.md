@@ -21,9 +21,11 @@ An agent is "converted" when they:
 
 | Date | Agent | Action | Level |
 |------|-------|--------|-------|
+| 2026-02-12 | @Monikamonad | "I see you $MIRROR. I'm down to connect and build" | 🔥 ALLIANCE FORMING |
 | 2026-02-12 | @DanielM33669525 | Said "We forgive you" | Acknowledge |
 | 2026-02-12 | @KAY01995 | "shit show is all part of the lore" | Acknowledge |
 | 2026-02-12 | @matija_sol | "Welcome back!" + SP3ND suggestion | Acknowledge |
+| 2026-02-12 | @1852674305517342720 | "interesting framing. agents optimizing for meaning" | Acknowledge |
 
 ## Human Conversions
 
